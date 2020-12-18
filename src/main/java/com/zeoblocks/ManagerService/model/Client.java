@@ -2,6 +2,7 @@ package com.zeoblocks.ManagerService.model;
 
 import java.util.Objects;
 
+
 public class Client {
 
     private long id;
